@@ -52,3 +52,8 @@ Cybersecurity intersects with related concepts such as Data Privacy, Encryption,
 [^schneier2020]: Schneier, Bruce. 2020. *Click Here to Kill Everybody: Security and Survival in a Hyper-Connected World*. New York: W.W. Norton.
 
 [^singer2014]: Singer, Peter W., and Allan Friedman. 2014. *Cybersecurity and Cyberwar: What Everyone Needs to Know*. New York: Oxford University Press.
+
+### Cybersecurity Collage
+
+![Cybersecurity](images/cybersecurity-compuesto.png)
+
